@@ -3,7 +3,7 @@ project
 <!DOCTYPE html>
 <html>
 <head>
-  <title>My First Website</title>
+  <h1>My First Website</h1>
 </head>
 <body>
   <h1>Hello world</h1>
