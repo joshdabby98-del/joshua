@@ -1,2 +1,2 @@
 function sayHello() {
-  alert("Hello");}
+  document.getElementById("output").innerText = "Hello";}
